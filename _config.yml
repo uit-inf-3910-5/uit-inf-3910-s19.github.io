@@ -1,0 +1,10 @@
+# Site settings
+title: inf-3910 - Applied functional programming in .NET Core (spring 2019)
+# email: lars.ailo.bongo@uit.no
+description: > # this means to ignore newlines until "baseurl:"
+  Applied functional programming in .NET Core. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://uit-inf-3910-s19.github.io/" 
+
+# Build settings
+markdown: kramdown

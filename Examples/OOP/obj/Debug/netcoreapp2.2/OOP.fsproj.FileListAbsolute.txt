@@ -1,0 +1,10 @@
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/bin/Debug/netcoreapp2.2/OOP.deps.json
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/bin/Debug/netcoreapp2.2/OOP.runtimeconfig.json
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/bin/Debug/netcoreapp2.2/OOP.runtimeconfig.dev.json
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/bin/Debug/netcoreapp2.2/OOP.dll
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/bin/Debug/netcoreapp2.2/OOP.pdb
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/obj/Debug/netcoreapp2.2/OOP.fsprojAssemblyReference.cache
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/obj/Debug/netcoreapp2.2/OOP.AssemblyInfoInputs.cache
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/obj/Debug/netcoreapp2.2/OOP.AssemblyInfo.fs
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/obj/Debug/netcoreapp2.2/OOP.dll
+/home/jonas/src/uit-inf-3910-s19.github.io/Examples/OOP/obj/Debug/netcoreapp2.2/OOP.pdb
